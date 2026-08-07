@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "smart-admin-ui",
+  "compatibility_date": "2026-08-07",
+  "assets": {
+    "directory": "./dist/smart.admin.ui/browser",
+    "not_found_handling": "single-page-application"
+  }
+}
